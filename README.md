@@ -6,6 +6,8 @@
 
 Passionated for Tech and learning every day to nail my skills. <br/>
 Starting my journey 🚀.
+<br/>
+<br/>
 
 - 👨🏻‍🎓 Information Technology and Marketing Professional.
 - 🕵️ Looking for new challenges.
@@ -14,8 +16,9 @@ Starting my journey 🚀.
      
 
 
-### You can find me on
+<!--### You can find me on-->
 
+<br/>
 
 ### Github Stats
 

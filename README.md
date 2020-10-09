@@ -22,7 +22,7 @@
 
 ![Hector's github stats](https://github-readme-stats.vercel.app/api?username=ProgrammerRomero&show_icons=true&theme=tokyonight)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![Hector's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ProgrammerRomero)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--

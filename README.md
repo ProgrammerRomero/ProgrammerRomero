@@ -20,7 +20,7 @@
 ### Hi there 👋
 
 
-![Hector's github stats](https://github-readme-stats.vercel.app/api?username=ProgrammerRomero&show_icons=true&theme=tokyonight)
+![Hector's github stats](https://github-readme-stats.vercel.app/api?username=ProgrammerRomero&show_icons=true&theme=default)
 
 
 <!-- Actual text -->

@@ -4,8 +4,8 @@
 ## This is Julian, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 👨🏻‍🎓 Information Technology and Marketing Professional.
-**🕵️ Looking for new challenges.
-**🔥 Love Angular & JS
+*🕵️ Looking for new challenges.
+*🔥 Love Angular & JS
 
 ## Link to my website
 [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)

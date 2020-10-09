@@ -21,11 +21,10 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/api/?username=ProgrammerRomero&show_icons=true&theme=radical" />
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-ProgrammerRomero
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ProgrammerRomero&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=ProgrammerRomero&show_icons=true&theme=radical)
 
 
 <!--

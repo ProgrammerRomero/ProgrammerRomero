@@ -1,11 +1,13 @@
 
 
-### Hello, 
-## This is Julian, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+## This is Julian, 
 
 - 👨🏻‍🎓 Information Technology and Marketing Professional.
 - 🕵️ Looking for new challenges.
-- 🔥 Love Angular & JS
+- 🔥 Love Angular & JS.
+- 🤓 I am currently learning day by day.
 
 ## Link to my website
 [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
@@ -15,7 +17,7 @@
 
       
 
-### Hi there 👋
+### You can find me
 
 
 ![Hector's github stats](https://github-readme-stats.vercel.app/api?username=ProgrammerRomero&show_icons=true&theme=default)

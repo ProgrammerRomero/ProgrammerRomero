@@ -4,7 +4,7 @@
 
 ## This is Julian, 
 
-Passionated for Tech and learning every day to nail my skills. 
+Passionated for Tech and learning every day to nail my skills. <br/>
 Starting my journey 🚀.
 
 - 👨🏻‍🎓 Information Technology and Marketing Professional.

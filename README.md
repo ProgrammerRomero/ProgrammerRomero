@@ -3,6 +3,9 @@
 ### Hello, 
 ## This is Julian, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+I am a Angular and Javascript lover.
+:man_student_light_skin_tone: Information Technology and Marketing Professional
+
 
 ## Link to my website
 [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)

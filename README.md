@@ -5,6 +5,10 @@
 ## Insert some gifts
 <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
 
+## Icons
+ 	U+1F9D1, U+1F3FC, U+200D, U+1F393
+   	U+1F575, U+FE0F
+
 ### Hi there 👋
 
 <!--

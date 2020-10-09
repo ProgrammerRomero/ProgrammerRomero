@@ -8,7 +8,7 @@
 ## Icons
 :detective:
  	:star:
-    	:person_biking_medium_light_skin_tone:
+   
        	:male-technologist:
           	:student_medium_light_skin_tone:
       

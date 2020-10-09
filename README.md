@@ -7,7 +7,11 @@
 
 ## Icons
 :detective:
-   	U+1F575, U+FE0F
+ 	:star:
+    	:person_biking_medium_light_skin_tone:
+       	:male-technologist:
+          	:student_medium_light_skin_tone:
+      
 
 ### Hi there 👋
 
